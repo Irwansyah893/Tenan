@@ -1,0 +1,6 @@
+{
+  "name": "Warung Kasir",
+  "description": "Aplikasi kasir modern, ringan, dan super cepat untuk usaha makanan kecil dengan fitur database lokal, cetak struk, digital payment, dan diagram harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
